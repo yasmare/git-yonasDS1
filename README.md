@@ -1,10 +1,9 @@
-# 💫 About Me:
-### Hi! I am Yonas, <br>
+# 💫 Hi! I am Yonas:
 I am currently working in Animal feed analysis laboratory <br/><br>
 sharing my journey and learning in Data Science <br/><br>
 I am looking to collaborate on data analysis <br/><br>
 I am looking for help with my data analysis skill improvement <br/><br>
-
+Below you can get discreption about the python script  [SampleData.py] 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
