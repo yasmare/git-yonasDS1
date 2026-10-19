@@ -1,6 +1,6 @@
 # 💫 Hi! I am Yonas:
-I am currently working in Animal feed analysis laboratory <br/><br>
-sharing my journey and learning in Data Science <br/><br>
+I am currently learning [Data Science] <br/><br>
+here I am sharing my journey and learning in Data Science <br/><br>
 I am looking to collaborate on data analysis <br/><br>
 I am looking for help with my data analysis skill improvement <br/><br>
 Below you can get discreption about the python script  [SampleData.py] 
